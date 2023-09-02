@@ -40,3 +40,5 @@ A documentação da API está disponível no formato Swagger. Você pode acessá
 - `POST /courses`
 - `DELETE /courses/:courseId`
 
+  Licença
+Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).

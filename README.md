@@ -22,23 +22,25 @@ cd Api-Nest
 npm install
 ```
 
-## Executando o Projeto
+## 🏗️ Executando o Projeto
 Depois de instalar as dependências, você pode iniciar o servidor localmente com o seguinte comando:
 ```bash
 npm run start:dev
 ```
 Isso iniciará o servidor na porta 3000. Você pode acessar o projeto no seu navegador usando o endereço http://localhost:3000.
 
-## Documentação da API
+## 📄 Documentação da API
 
 A documentação da API está disponível no formato Swagger. Você pode acessá-la através da seguinte rota após iniciar o projeto: http://localhost:3000/api
 
-## Funcionalidades
+## 🛠️ Funcionalidades
 
 - `GET /courses`
 - `GET /courses/:courseId`
 - `POST /courses`
 - `DELETE /courses/:courseId`
+
+<hr>
 
   Licença
 Este projeto é licenciado sob a [Licença MIT](https://github.com/Codigo-em-Dupla/Api-Nest/blob/main/LICENSE).

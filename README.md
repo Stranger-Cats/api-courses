@@ -41,4 +41,4 @@ A documentação da API está disponível no formato Swagger. Você pode acessá
 - `DELETE /courses/:courseId`
 
   Licença
-Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
+Este projeto é licenciado sob a [Licença MIT](https://github.com/Codigo-em-Dupla/Api-Nest/blob/main/LICENSE).
